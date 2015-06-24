@@ -1,0 +1,10 @@
+<Scene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Cubes>
+        <Cube PositionX="-4.21593666" PositionY="1.07376862" PositionZ="3.72344112" RotationX="299" RotationY="343" RotationZ="85"/>
+        <Cube PositionX="-0.8057208" PositionY="2.69934535" PositionZ="3.57926726" RotationX="23.9999981" RotationY="61.0000038" RotationZ="8.000001"/>
+        <Cube PositionX="0.6356807" PositionY="3.94327044" PositionZ="-2.19731617" RotationX="83.00005" RotationY="84.00005" RotationZ="185"/>
+        <Cube PositionX="4.57860565" PositionY="-0.4398923" PositionZ="-1.34550858" RotationX="18.0000019" RotationY="331" RotationZ="244.000015"/>
+        <Cube PositionX="-4.727478" PositionY="1.71901453" PositionZ="2.35061049" RotationX="307" RotationY="177.999985" RotationZ="163.999985"/>
+        <Cube PositionX="-4.351631" PositionY="-1.3006382" PositionZ="4.79309654" RotationX="80.00003" RotationY="173.999969" RotationZ="93"/>
+    </Cubes>
+</Scene>
